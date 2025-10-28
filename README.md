@@ -57,7 +57,7 @@ This project demonstrates:
 ---
 
 ### 🖼️ Dashboard Preview
-![Dashboard Preview](Sale Data.pbix)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
