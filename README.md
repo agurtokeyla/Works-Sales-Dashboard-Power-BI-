@@ -3,7 +3,7 @@
 # Adventure Works Sales Dashboard (Power BI)
 
 ### 📊 Project Overview
-This Power BI dashboard analyzes sales performance for **Adventure Works**, a global product retailer.  
+This Power BI dashboard analyzes sales performance using **Kaggle’s Sample Sales Data**, a global product retailer.  
 It provides insights into **total sales, order quantity, deal size, and profit margins** across multiple years and product lines.
 
 The dashboard focuses on clarity and interactivity, helping stakeholders quickly identify sales trends, performance gaps, and order status patterns.
@@ -41,6 +41,7 @@ The dashboard focuses on clarity and interactivity, helping stakeholders quickly
 ---
 
 ### 📁 Dataset
+**[Sample - Superstore Sales Data (Kaggle)](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)**  
 File: `sales_data_sample.csv`  
 Source: Public sample dataset used for Power BI learning projects.  
 Columns include: `OrderDate`, `CustomerName`, `ProductLine`, `Territory`, `Sales`, `QuantityOrdered`, `DealSize`, `Status`, and more.
