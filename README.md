@@ -6,7 +6,7 @@
 This Power BI dashboard analyzes sales performance for **Adventure Works**, a global product retailer.  
 It provides insights into **total sales, order quantity, deal size, and profit margins** across multiple years and product lines.
 
-The dashboard focuses on clarity and interactivity — helping stakeholders quickly identify sales trends, performance gaps, and order status patterns.
+The dashboard focuses on clarity and interactivity, helping stakeholders quickly identify sales trends, performance gaps, and order status patterns.
 
 ---
 
